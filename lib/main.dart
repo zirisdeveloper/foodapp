@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
-import 'package:food_app/components/Categories.dart';
-import 'package:food_app/components/FruitCard.dart';
+import 'package:food/components/Categories.dart';
+import 'package:food/components/FruitCard.dart';
 import 'dart:math';
 
-import 'package:food_app/components/SearchBar.dart';
+import 'package:food/components/SearchBar.dart';
 
 void main() {
   runApp(MyApp());

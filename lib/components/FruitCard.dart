@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
-import 'package:food_app/models/FruitsModel.dart';
-import 'package:food_app/FruitPage.dart';
+import 'package:food/models/FruitsModel.dart';
+import 'package:food/FruitPage.dart';
 
 Color _kTextPrimary = Color(0xFF1E1E24); //text color
 

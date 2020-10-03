@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
-import 'package:food_app/models/FruitsModel.dart';
+import 'package:food/models/FruitsModel.dart';
 
 class FruitPage extends StatefulWidget {
   final Fruit fruit;
